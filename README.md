@@ -12,9 +12,12 @@
 - A website where you can find free assets, suitable for simple tasks.
 
 ## Promotional video
-- It looks like it's squeezing because it's a gif
 
-<img src="https://github.com/user-attachments/assets/646a4b30-b8b4-4135-bcd3-ac3914657d96" width="700" alt="Demo GIF">
+<img src="https://github.com/user-attachments/assets/26ec6e1f-8c56-40d5-961b-f6e9db745a71" width="700" alt="Demo GIF">
+
+
+
+
 
 
 
