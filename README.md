@@ -13,7 +13,7 @@
 
 ## Medium 
 
-https://medium.com/@sametkaya0/swift-spritekit-ile-2d-oyun-geliştirmeye-60e4bb614e67
+https://medium.com/@sametkaya0/swift-spritekit-ile-2d-oyun-geliştirme-919951933755
 
 ## Promotional video
 
